@@ -1,9 +1,11 @@
 {
-  "name": "Advanced React DomoApp",
+  "name": "AppDB Backup",
   "version": "0.0.1",
+  "fullpage": true,
   "size": {
     "width": 3,
     "height": 3
   },
-  "mapping": []
+  "mapping": [],
+  "collections": []
 }
